@@ -1,0 +1,16 @@
+cabal-version: 2.4
+name:          default
+version:       0.1.0.0
+license:       MIT
+license-file:  LICENSE
+author:        Matt Wittmann
+maintainer:    mcwitt@gmail.com
+
+executable default
+  main-is:          Main.hs
+  build-depends:
+    , base        ^>=4.16.1
+    , containers  ^>=0.6.5
+
+  hs-source-dirs:   app
+  default-language: GHC2021
