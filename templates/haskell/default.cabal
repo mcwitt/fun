@@ -2,7 +2,6 @@ cabal-version: 2.4
 name:          default
 version:       0.1.0.0
 license:       MIT
-license-file:  LICENSE
 author:        Matt Wittmann
 maintainer:    mcwitt@gmail.com
 
